@@ -223,3 +223,7 @@ Desenvolver o **HYPZ - HyperPromptZer0** de forma organizada e eficiente, você 
 8. Recolha feedback e refatore conforme necessário.
 
 Com essa abordagem, você foca primeiro no essencial, depois no diferencial, garantindo um progresso sustentável. 🚀
+
+# Licensa
+
+Licensiado sob [LICENSE](https://github.com/Zer0G0ld/HYPZ/blob/main/LICENSE)
